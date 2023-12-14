@@ -2,7 +2,7 @@
 title: "第1回AIアーティスト選手権 ノミネート作品展示兼投票会場"
 excerpt: "優勝者には賞品として、オリジナル賞状が贈呈されます。"
 publishDate: "2023-10-14T11:39:36.050Z"
-image: "src/assets/ai-artist.png"
+image: "/images/ai-artist.png"
 category: "project"
 author: "ai-art"
 tags: ["AIアーティスト選手権"]
