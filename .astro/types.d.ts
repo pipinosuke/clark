@@ -67,23 +67,23 @@ declare module 'astro:content' {
 
 	const entryMap: {
 		"blog": {
-"1.md": {
-  id: "1.md",
-  slug: "1",
+"bodoge.md": {
+  id: "bodoge.md",
+  slug: "bodoge",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
-"14-architectural-design-ideas-for-spacious-interior.md": {
-  id: "14-architectural-design-ideas-for-spacious-interior.md",
-  slug: "14-architectural-design-ideas-for-spacious-interior",
+"first-ai-artist-championship/index.md": {
+  id: "first-ai-artist-championship/index.md",
+  slug: "first-ai-artist-championship",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
 },
-"2.md": {
-  id: "2.md",
-  slug: "2",
+"momotetu.md": {
+  id: "momotetu.md",
+  slug: "momotetu",
   body: string,
   collection: "blog",
   data: InferEntrySchema<"blog">
