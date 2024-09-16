@@ -32,4 +32,10 @@ export const authors: Props[] = [
     image:"./src/assets/authors/ai-artist.png",
     bio:"当委員会は、AIが持つ無限の可能性を探究する目的で設立されました。",
   },
+  {
+    name: "オニャンコポン",
+    slug: "onyankopon",
+    image: "./src/assets/authors/monyankopon.jpg",
+    bio: "オニャンコポンは西アフリカ・ガーナのアシャンティ人に伝わる神であり、天空神である。(wikipediaより抜粋)",
+  },
 ];
